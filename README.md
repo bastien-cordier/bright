@@ -1,1 +1,3 @@
-# bright
+# Bright - Site E-Commerce
+
+Bright est une marque de streetwear ....
