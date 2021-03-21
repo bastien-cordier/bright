@@ -12,7 +12,7 @@ function Header() {
                     <Nav className="mr-auto">
                         <Nav.Link href="#home">Accueil</Nav.Link>
                         <Nav.Link href="#link">Shop</Nav.Link>
-                        <Nav.Link href="#link">À propos</Nav.Link>
+                        <Nav.Link href="#link">Bright</Nav.Link>
                     </Nav>
                     <div className="icons">
                         <i className='fas fa-user-circle fa-2x' />
