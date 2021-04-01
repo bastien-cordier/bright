@@ -1,11 +1,7 @@
-import React, { Fragment } from 'react'
+import React, { Fragment } from "react";
 
 function Footer() {
-    return (
-        <Fragment>
-            
-        </Fragment>
-    )
+  return <Fragment></Fragment>;
 }
 
-export default Footer
+export default Footer;

@@ -1,12 +1,12 @@
-import React from 'react'
-import './Nouveautes.css'
+import React from "react";
+import "./Nouveautes.css";
 
 function Nouveautes() {
-    return (
-        <h5 className='text-center categories'>
-            Nouvelle collection Printemps 2021 !
-        </h5>
-    )
+  return (
+    <h5 className="text-center categories">
+      Nouvelle collection Printemps 2021 !
+    </h5>
+  );
 }
 
-export default Nouveautes
+export default Nouveautes;
